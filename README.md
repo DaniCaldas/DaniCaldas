@@ -19,11 +19,11 @@
  </div>
  
   ## ⚙️ &nbsp;GitHub Analytics
-<div align="left" >
-<img width="530em" src=https://github-readme-stats.vercel.app/api?username=DaniCaldas&show_icons=true&theme=darcula&include_all_commits=true&count_1/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniCaldas&show_icons=true&theme=radical)
   <br><br>
- <img width="530em" src= https://github-readme-stats.vercel.app/api/top-langs/?username=Danicaldas&layout=compact&lengs_count=16&theme=tokyonight/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniCaldas&layout=compact)](https://github.com/DaniCaldas/github-readme-stats)
+
   
 <br><br>
 ## Contact
