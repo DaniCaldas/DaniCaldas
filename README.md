@@ -1,7 +1,7 @@
 <h1> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Daniel Caldas</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DaniCaldas&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor Frot-End 
+- 🔥 Desenvolvedor Front-End 
 
 - 😅 sem experiência
 
