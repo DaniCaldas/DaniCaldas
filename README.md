@@ -1,4 +1,5 @@
-<h1> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Daniel Caldas</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Daniel+Caldas;I'm+a+Front+End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DaniCaldas&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Desenvolvedor Front-End 
@@ -19,17 +20,13 @@
  </div>
  
   ## ⚙️ &nbsp;GitHub Analytics
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniCaldas&show_icons=true&theme=radical)
-  <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniCaldas&layout=compact)](https://github.com/DaniCaldas/github-readme-stats)
-
+<div align="center">
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaniCaldas&show_icons=true&count_private=true&hide_border=true&title_color=8a2be2&icon_color=4b0082&text_color=9932cc&bg_color=0d1117" alt="Daniel Caldas github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniCaldas&layout=compact&hide_border=true&title_color=9932cc&text_color=9932cc&bg_color=0d1117" />
+</div>
   
 <br><br>
 ## Contact
-<a href="https://instagram.com/dani_ftn" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-dani_ftn-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://www.linkedin.com/in/daniel-caldas-goncalves/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-daniel caldas-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+
+<a href="https://www.linkedin.com/in/daniel-caldas-goncalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href = "mailto:cmp.1a.daniel.caldasgoncalves@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
