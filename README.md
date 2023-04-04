@@ -20,9 +20,12 @@
  </div>
  
   ## ⚙️ &nbsp;GitHub Analytics
-<div align="center">
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaniCaldas&show_icons=true&count_private=true&hide_border=true&title_color=8a2be2&icon_color=4b0082&text_color=9932cc&bg_color=0d1117" alt="Daniel Caldas github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniCaldas&layout=compact&hide_border=true&title_color=9932cc&text_color=9932cc&bg_color=0d1117" />
+<div>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniCaldas&show_icons=true&theme=transparent)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniCaldas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
   
 <br><br>
