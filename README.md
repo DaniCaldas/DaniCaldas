@@ -6,6 +6,8 @@
 
 - 😅 sem experiência
 
+- 📘 Estudante de Analise e Desenvolvimento em Sistemas
+
 - ❤ apaixonado por tecnologia 
 <br><br>
   
