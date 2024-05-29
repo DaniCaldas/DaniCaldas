@@ -1,10 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Daniel+Caldas;I'm+a+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Daniel+Caldas;Eu+sou+um+Desenvolvedor+Web;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DaniCaldas&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor Full Stack
-
-- 😅 sem experiência
+- 🔥 Desenvolvedor web
 
 - 📘 Estudante de Analise e Desenvolvimento em Sistemas
 
