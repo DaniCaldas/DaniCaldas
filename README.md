@@ -4,7 +4,8 @@
 
 - 🔥 Desenvolvedor web
 
-- 📘 Estudante de Analise e Desenvolvimento em Sistemas
+- 📘 Formado em Analise e Desenvolvimento em Sistemas
+- ⚙️ Estudante de Engenharia de Dados
 
 - ❤ apaixonado por tecnologia 
 <br><br>
@@ -19,6 +20,7 @@
       <img height=30px width=30px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
       <img height=30px width=30px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
       <img height=30px width=30px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+      <img height=30px width=30px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
  </div>
  
   ## ⚙️ &nbsp;GitHub Analytics
